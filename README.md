@@ -1,5 +1,0 @@
-# PortfolioProjects
-
-```python
-
-```
